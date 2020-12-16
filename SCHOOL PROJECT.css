@@ -1,0 +1,181 @@
+body {
+    background-image: url(Background.jpg);
+}
+
+.LOGO {
+      margin-bottom: 20px;
+}
+
+.LOGO h1{
+    display: inline;
+    font-family: BlairMdITC TT;
+    font-size: 50px;
+    color: white;
+}
+
+.LOGO img {
+    width: 5%;
+}
+
+.TOOLBAR li {
+    display:inline;
+    color: rgb(25, 156, 216);
+    font-size: 15px;
+    font-family: BlairMdITC TT;
+}
+ 
+.TOOLBAR {
+    background-color: white;
+    text-align: center;
+    word-spacing: 30px;
+    border: solid thick #330;
+    margin-bottom:10px;
+}
+
+.SECTIONS a{
+    text-decoration-line: none;
+    text-decoration-color: rgb(25, 156, 216);
+}
+
+.BANNERS img {
+    width: 50%;
+}
+
+.AboutUs h2,p1,p2{
+    color: white;
+    font-family: BlairMdITC TT;
+    text-align: justify;
+}
+
+.AboutUs p2 {
+    text-align: right;
+    font-size: 12px;
+}
+
+.AboutUs img {
+    width: 10%;
+    float: right;
+    margin-right: 4%;
+    border-style:dashed;
+    border-width:medium;
+    border-color:white;
+}
+
+.ITEMS  img {
+    width: 20%;
+    float: right;
+    border-style: double;
+    border-color: white;
+    border-width: thick;
+    border-radius: 5%;
+}
+
+.ITEMS {
+    display: inline;
+    font-family: BlairMdITC TT;
+    color: white;
+    font-size: 11px;
+}
+
+.Support {
+    font-size: 15px;
+    font-family: BlairMdITC TT;
+    color: white;
+}
+
+.Support a {
+    text-decoration-line: none;
+}
+
+.Shop {
+    border-width: medium;
+    border-color:black;
+    border-style:solid; 
+    font-family: BlairMdITC TT;
+    color: white;
+    font-style: italic;
+    font-size: 12px;
+    background-color: white;
+    text-decoration:none;
+    color: rgb(25, 156, 216);
+    border-radius: 30%;
+}
+
+.ITEMSSHOP {
+    display: inline;
+    font-family: BlairMdITC TT;
+    color: white;
+    font-size: 30px;
+}
+
+.ITEMSSHOP img {
+    width: 25%;
+    border-style: double;
+    border-color: white;
+    border-width: thick;
+    float: right;
+    border-radius: 10%;
+}
+
+.ITEMSSHOP h3 {
+    border-width: thin;
+    border-color:rgb(25, 156, 216);
+    border-style:solid; 
+    font-family: BlairMdITC TT;
+    color: white;
+    background-color: white;
+    color: rgb(25, 156, 216);
+    border-radius: 10%;
+    margin-right: 87%;
+    margin-left: 1%;
+}
+
+.Shop1 {
+    border-width: medium;
+    border-color:rgb(25, 156, 216);
+    border-style:solid; 
+    font-family: BlairMdITC TT;
+    color: white;
+    font-style: italic;
+    font-size: 30px;
+    background-color: white;
+    text-decoration:none;
+    color: rgb(25, 156, 216);
+    border-radius: 30%;
+}
+
+.PageSHOP {
+    background-image:url(abstract-background.jpg);
+    padding-bottom: 60px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 30px;
+    border-radius: 1%;
+}
+
+.FORM {
+    text-align: center;
+    font-family: BlairMdITC TT;
+    color: white;
+    background-color: rgb(25, 156, 216);
+    width: 500px;
+    padding: 5px 6px;
+    border: solid thick #4255E8;
+    border-radius: 10%;
+}
+
+.FILL{
+    border:solid thick #4255E8;
+    border-radius: 20%;
+    font-size: 15px;
+    font-family: BlairMdITC TT;
+}
+
+#SUBMIT {
+    background-color: rgb(25, 156, 216);
+    border: solid thick #4255E8;
+    border-radius: 20%;
+    font-size: 15px;
+    font-family: BlairMdITC TT;
+    color: white;
+}
